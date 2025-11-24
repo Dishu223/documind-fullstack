@@ -1,0 +1,12 @@
+fastapi==0.112.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+python-dotenv==1.0.1
+pypdf==4.3.1
+faiss-cpu==1.8.0
+# The STABLE v0.2 Ecosystem
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.33
+langchain-text-splitters==0.2.2
+langchain-google-genai==1.0.9
